@@ -45,7 +45,7 @@
   --tint-brightness: 0;
   --font: Nunito;
   --window-padding: 10px;
-  --window-roundness: 0px;
+  --window-roundness: 10px;
   --update-notice-1: none;
 }
 
