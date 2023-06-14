@@ -53,7 +53,7 @@
   /*
    * Gradient variables
    */
-  --gradient-primary: 255, 255, 255; /* DEFAULT: 103,58,183 */
+  --gradient-primary: 112, 112, 112; /* DEFAULT: 103,58,183 */
   --gradient-secondary: 0, 0, 0; /* DEFAULT: 63,81,181 */
   --gradient-direction: 320deg; /* DEFAULT: 320deg */
   /*
