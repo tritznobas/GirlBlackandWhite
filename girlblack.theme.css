@@ -14,11 +14,11 @@
 @import url('https://tritznobas.github.io/girlblack/main.css');
 
 :root {
-  --main-color: #707070;
-  --hover-color: #000000;
+  --main-color: rgba(140, 140, 140, 0.85);
+  --hover-color: rgba(90, 90, 90, 0.85);
   --success-color: #43b581;
   --danger-color: #982929;
-  --url-color: var(--main-color);
+  --url-color: rgba(140, 140, 140, 0.85);
   --background-image: url('https://i.imgur.com/ULiBXbM.jpg');
   --background-shading: 100%;
   --background-position: center;
@@ -35,7 +35,7 @@
   --user-popout-image: url('https://i.imgur.com/ULiBXbM.jpg');
   --user-popout-position: center;
   --user-popout-size: cover;
-  --user-popout-repeat: no-repeat;
+  --user-popout-repeat: repeat;
   --user-popout-attachment: fixed;
   --user-popout-brightness: 100%;
   --user-popout-contrast: 100%;
@@ -46,7 +46,7 @@
   --user-modal-image: url('https://i.imgur.com/ULiBXbM.jpg');
   --user-modal-position: center;
   --user-modal-size: cover;
-  --user-modal-repeat: no-repeat;
+  --user-modal-repeat: repeat;
   --user-modal-attachment: fixed;
   --user-modal-brightness: 100%;
   --user-modal-contrast: 100%;
